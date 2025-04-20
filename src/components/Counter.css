@@ -1,0 +1,21 @@
+.body {
+    box-sizing: border-box;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.btns {
+    padding: 0 16px;
+    height: 24px;
+}
